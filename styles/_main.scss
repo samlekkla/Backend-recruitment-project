@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 1771px;
+    width: 100%;
+    min-height: 100vh;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.page1 p,
+.page2 p,
+.page2__subcon1,
+.page2__subcon2,
+.page3 p,
+.page3v1 p,
+.page3v2 p,
+.page4 p,
+.page5 p {
+    font-size: 19px; 
+    font-weight: 285;
+    font-style: normal;
+}
